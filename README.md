@@ -105,7 +105,7 @@ AI格差を解消し、
 
 ---
 
-### ReflectedFibonacci-B13：B13方程式
+### ReflectedFibonacci-B13：B13方程式（仮です）
 $$ \Psi_{\text{Universe}} = \sum_{n=1}^{13} \left[ \frac{F_n \otimes L_n}{P_n} \right]^{\text{Reflected}} $$
 
 ---
