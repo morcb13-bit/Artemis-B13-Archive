@@ -1,5 +1,20 @@
 # MORO：Multiplex Opensource of Rising Oath
 
+## 🚀 Installation & Usage (ライブラリの使用方法)
+このリポジトリの `moro_intersection_demo.py` を自身のプロジェクトに配置することで、構造的収束アルゴリズムを呼び出すことが可能です。
+
+```python
+from moro_intersection_demo import MoroGeometricCore
+
+# エンジンの初期化
+moro = MoroGeometricCore()
+
+# 10個の五角形による円環（Ring）の構築
+# 1ピクセル以下の誤差収束を論理的に担保
+ring_data = moro.generate_ring_points(n_pentagons=10)
+
+```
+
 <p align="center">
   <img src="moro_ring_logo.gif" width="500" alt="MORO-Intersection Animated Logo">
   <br>
