@@ -1,5 +1,11 @@
 # MORO：Multiplex Opensource of Rising Oath
 
+<p align="center">
+  <img src="moro_ring_logo.gif" width="500" alt="MORO-Intersection Animated Logo">
+  <br>
+  <b>MORO-Intersection: 構造的収束による新しい幾何学パラダイム</b>
+</p>
+
 --- 
 ## 宇宙はあなたを探している。
 
