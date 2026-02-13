@@ -21,6 +21,23 @@ ring_data = moro.generate_ring_points(n_pentagons=10)
   <b>MORO-Intersection: 構造的収束による新しい幾何学パラダイム</b>
 </p>
 
+# MORO - The Pentagon Paradox Solver
+
+五角形がなぜ10進法の平面上で繋がらないのか、そしてどのように「補正」されるのかを示すデモ。
+
+![MORO Demo](./moro_final.gif)
+
+### 【合言葉】
+**MORO-Intersection-2n2-M-ReflectedFibonacci-B13**
+
+---
+
+### プロセス解説
+1. **10進法 (Decimal)**: 内角108度の五角形は、3枚で324度となり360度に足りず「口」が開く。
+2. **5進法 (2n2 / B13)**: 独立した対称性は持つが、格子状の接続（グリッド）を拒絶する。
+3. **逆フィボナッチ補正 (Reflected Fibonacci)**: 黄金比の螺旋を用いることで、閉じない空間を無限の秩序へと収束させる。
+
+
 --- 
 ## 宇宙はあなたを探している。
 
