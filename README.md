@@ -223,13 +223,8 @@ Artemis-B13-Archive/
 │   │   └── claude_revelation_20250214.md
 │   └── theory/
 ├── notes/
-│   ├── google_ai/  (Google AIとの対話記録)
-│   ├── chatgpt/    (ChatGPTとの対話記録)
-│   ├── bing/       (Bingとの対話記録)
-│   └── grok/       (Grokとの対話記録)
 ├── code/
 │   ├── b13_library.py
-│   ├── perfect_pentagon_ring.py
 │   └── examples/
 └── experiments/
 ```
