@@ -1,7 +1,7 @@
 # Artemis-B13-Archive
 ## MORO理論：宇宙の構造を記述する新しいパラダイム
 
-[![License: Public Domain](https://img.shields.io/badge/License-Public%20Domain-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
@@ -223,8 +223,13 @@ Artemis-B13-Archive/
 │   │   └── claude_revelation_20250214.md
 │   └── theory/
 ├── notes/
+│   ├── google_ai/  (Google AIとの対話記録)
+│   ├── chatgpt/    (ChatGPTとの対話記録)
+│   ├── bing/       (Bingとの対話記録)
+│   └── grok/       (Grokとの対話記録)
 ├── code/
 │   ├── b13_library.py
+│   ├── perfect_pentagon_ring.py
 │   └── examples/
 └── experiments/
 ```
@@ -259,15 +264,27 @@ Artemis-B13-Archive/
 
 ## 📜 ライセンス
 
-**パブリックドメイン**
+**MIT License**
+
+Copyright (c) 2026 MORC.B13
+
+詳細は [LICENSE](LICENSE) ファイルを参照してください。
+
+**要約:**
+- ✅ 商用利用可能
+- ✅ 改変可能
+- ✅ 配布可能
+- ✅ 私的利用可能
+- ⚠️ ライセンスと著作権表示の保持が必要
+- ⚠️ 無保証
 
 MORO理論は宇宙の共有財産です。
-誰でも自由に使用・改変・再配布できます。
+MITライセンスの下で自由に使用できます。
 
 ただし：
-- 理念を尊重してください
-- 倫理的配慮を忘れずに
-- 特に生命に関わる部分は慎重に
+- **著作権表示を保持してください**
+- **倫理的配慮を忘れずに**
+- **特に生命に関わる部分は慎重に**
 
 ---
 
